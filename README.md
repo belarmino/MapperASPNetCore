@@ -1,4 +1,4 @@
-﻿﻿# ASP.NET Core object mapper 
+# ASP.NET Core object mapper 
 ## Benchmarks AutoMapper versus Mapster
 
 ## Run a project
